@@ -1,0 +1,15 @@
+{
+  "name": "luobata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "luobata",
+  "license": "ISC",
+  "dependencies": {
+    "better-console": "^0.2.4",
+    "bluebird": "^2.9.34"
+  }
+}
